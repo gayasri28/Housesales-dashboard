@@ -9,3 +9,4 @@ Property Types: Breakdown of sales by property types such as single-family homes
 Market Insights: Gain valuable insights into market dynamics, hotspots, and seasonality effects.
 This repository is a valuable resource for real estate analysts, researchers, and anyone interested in understanding the housing market dynamics in King County during the specified timeframe.
 
+![King County House Sales](https://github.com/gayasri28/Housesales-dashboard/assets/156356619/f301c85e-17aa-490a-bfab-53d99fd4c362)
